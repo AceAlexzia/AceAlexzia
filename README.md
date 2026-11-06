@@ -12,3 +12,9 @@ I am a Software Engineer and Game Developer currently looking for a new opportun
 - **Languages:** C, C#, C++, Python, Java, JavaScript, HTML, CSS
 - **Backend & Databases:** ASP.NET, Flask, RESTful API, MySQL
 - **Tools & Game Engines:** Unity, Postman, Git, Agile, Jira
+
+### 🔒 Private (Room Booking System)
+**Room Booking System** *(Private Repository)*
+- **Role:** Backend Developer
+- **Tech Stack:** Python/Flask, MySQL, Postman
+- **Summary:** Collaborated with a team of 5 to build a Room Booking system. I cannot show the source code but, I was responsible for half of backend features and testing
