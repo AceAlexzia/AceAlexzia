@@ -18,3 +18,5 @@ I am a Software Engineer and Game Developer currently looking for a new opportun
 - **Role:** Backend Developer
 - **Tech Stack:** Python/Flask, MySQL, Postman
 - **Summary:** Collaborated with a team of 5 to build a Room Booking system. I cannot show the source code but, I was responsible for half of backend features and testing
+
+**My Past projects for Game is not in GitHub (On Private Bitbucket of my teammate instead) Please feel free to reach out to me to**
